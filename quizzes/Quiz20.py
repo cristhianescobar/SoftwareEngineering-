@@ -8,16 +8,21 @@ CS373: Quiz #20 (5 pts) <Jake>
  1. What is the output of the following?
     (2 pts)
 
+# a+a = [2,3,4,2,3,4]
+# (a + a)[10:-10:-2] = [4,2,3]
 """
 
 a = [2, 3, 4]
 print((a + a)[10:-10:-2])
 
+
+
 """ ----------------------------------------------------------------------
  2. What is the output of the following?
     Alternatively, indicate that it's an error.
     (2 pts)
-
+# 2
+# 3
 """
 
 class A :
